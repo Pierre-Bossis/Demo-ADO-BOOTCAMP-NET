@@ -5,7 +5,9 @@ VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Bootcamp.Net.ADO", "Bootcamp.Net.ADO\Bootcamp.Net.ADO.sqlproj", "{79F89EA8-EF18-46F0-B6C0-91444C362AAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bootcamp.Net.ADO.APP", "Bootcamp.Net.ADO.APP\Bootcamp.Net.ADO.APP.csproj", "{693FC682-FCC0-48DB-93D2-BC9252019DFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bootcamp.Net.ADO.APP", "Bootcamp.Net.ADO.APP\Bootcamp.Net.ADO.APP.csproj", "{693FC682-FCC0-48DB-93D2-BC9252019DFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bootcamp.GameManager", "Bootcamp.GameManager\Bootcamp.GameManager.csproj", "{78497770-3174-498A-B8F7-F3B061503714}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +25,10 @@ Global
 		{693FC682-FCC0-48DB-93D2-BC9252019DFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{693FC682-FCC0-48DB-93D2-BC9252019DFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{693FC682-FCC0-48DB-93D2-BC9252019DFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78497770-3174-498A-B8F7-F3B061503714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78497770-3174-498A-B8F7-F3B061503714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78497770-3174-498A-B8F7-F3B061503714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78497770-3174-498A-B8F7-F3B061503714}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
